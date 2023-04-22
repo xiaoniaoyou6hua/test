@@ -1,1 +1,2 @@
 this is 3,txt
+add 3.txt lin2
